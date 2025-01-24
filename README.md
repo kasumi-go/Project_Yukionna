@@ -1,4 +1,4 @@
-Afterall, I make it. I submit an article to IROS, my dream. Whatever the result is, I am satisfied.
+Afterall, I make it. I submitted an article to IROS, my dream. Whatever the result is, I am satisfied.
 
 This is also a story about how to finish an interesting project under the situation that: nobody understand, limited support. This is truely a great chanllenge to me, to make something under a hypocrisy environment in this winter (actually I would like a colder winter hence I can finish the experiments more successfully.).
 
