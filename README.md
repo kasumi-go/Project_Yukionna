@@ -4,7 +4,7 @@ This isn't just a robotics project; it's a testament to resilience. Imagine inst
 
 Yet here I am. Through iterative failures and microscopic victories, if this work inspires even one researcher to explore ice materials in robotics, my every shivering in the cold wind will have been worth it.
 
-Production Records: [![Google Sheet](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](-)
+Experiment Records: [![Google Sheet](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](-)
 
 Field Trials Video: [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](-)
 
