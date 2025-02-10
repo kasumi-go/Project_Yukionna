@@ -7,3 +7,5 @@ Yet here I am. Through iterative failures and microscopic victories, if this wor
 Production Records: [![Google Sheet](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](-)
 
 Field Trials Video: [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](-)
+
+Introduction of Yukionna(ゆきおんな) : [![](https://img.shields.io/badge/{WIKIPEDIA}-{WIKIPEDIA}-{black}.svg)]({-})
