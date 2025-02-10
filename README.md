@@ -8,4 +8,4 @@ Production Records: [![Google Sheet](https://img.shields.io/badge/Google_Cloud-4
 
 Field Trials Video: [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](-)
 
-Introduction of Yukionna(ゆきおんな) : [![](https://img.shields.io/badge/{WIKIPEDIA}-{WIKIPEDIA}-{black}.svg)]({-})
+Introduction of Yukionna(ゆきおんな) : [![](https://img.shields.io/badge/{=}-{WIKIPEDIA}-{black}.svg)]({-})
