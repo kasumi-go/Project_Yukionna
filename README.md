@@ -1,7 +1,9 @@
-Afterall, I make it. I submitted a manuscript to IROS, my dream. Whatever the result is, I am satisfied.
+I did it. After countless late nights, I finally submitted my manuscript to IROS—a dream that once felt as fragile as the ice components I study. Regardless of the outcome, this journey has already redefined what "impossible" means to me.
 
-This is also a story about how to finish an interesting project under cruel situation that: frequently malfunctioning equipment, limited support, and the half-cold weather( I really want a colder winter hence I can finish the experiments more completely.). But just as I mentioned, I finally make something like a paper.
+This isn't just a robotics project; it's a testament to resilience. Imagine installing ice components with gloves stiffened by subzero temperatures and single-handedly bridging the roles of engineer, theorist, and technician—all while racing against a winter that stubbornly refused to dip below -10°C (the production for my ice-based prototypes demanded colder weather!).
+
+Yet here I am. Through iterative failures and microscopic victories, if this work inspires even one researcher to explore ice materials in robotics, my every shivering in the cold wind will have been worth it.
 
 Production Records: [![Google Sheet](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](-)
 
-Field Test Video: [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](-)
+Field Trials Video: [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](-)
