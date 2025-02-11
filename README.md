@@ -8,4 +8,4 @@ Experiment Records: [![Google Sheet](https://img.shields.io/badge/Google_Cloud-4
 
 Field Trials Video: [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](-)
 
-Introduction of Yukionna(ゆきおんな) : [![](https://img.shields.io/badge/{=}-{WIKIPEDIA}-{black}.svg)]({-})
+Introduction of Yukionna(ゆきおんな) : [![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/Yuki-onna)
