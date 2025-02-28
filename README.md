@@ -4,7 +4,7 @@ Experiment Records: [![Google Sheet](https://img.shields.io/badge/Google_Cloud-4
 
 Field Trials Video (HD): [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](-)
 
-Introduction of Yukionna(ゆきおんな) :  [![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/Yuki-onna)
+Introduction of Yukionna (ゆきおんな):  [![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/Yuki-onna)
 
 I did it. After countless late nights, I finally submitted my manuscript to IROS—a dream that once felt as fragile as the ice components I study. Regardless of the outcome, this journey has already redefined what "impossible" means to me.
 
