@@ -4,8 +4,8 @@ This isn't just a robotics project; it's a testament to resilience. Imagine inst
 
 Yet here I am. Through iterative failures and microscopic victories, if this work inspires even one researcher to explore ice materials in robotics, my every shivering in the cold wind will have been worth it.
 
-Experiment Records: [![Google Sheet](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](-)
+Experiment Records: [![Google Sheet](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]([-](https://docs.google.com/spreadsheets/d/18P49t60WHwglsoYMgEqyzqFUUD2O1oVK/edit?usp=sharing&ouid=107717000522450840831&rtpof=true&sd=true))
 
-Field Trials Video: [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](-)
+Field Trials Video (HD): [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](-)
 
 Introduction of Yukionna(ゆきおんな) :  [![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/Yuki-onna)
