@@ -6,7 +6,7 @@ Yet here I am. Through iterative failures and microscopic victories, if this wor
 
 Experiment Records: [![Google Sheet](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://docs.google.com/spreadsheets/d/18P49t60WHwglsoYMgEqyzqFUUD2O1oVK/edit?usp=sharing&ouid=107717000522450840831&rtpof=true&sd=true) 
 
-<font color=#FF7F50>(Cautious: To see the figures, please download the Excel file and open it with WPS Office. Otherwise, the figures won't display normally.)</font>
+<font color=#00FFFF>Cautious: To see the figures, please download the Excel file and open it with WPS Office. Otherwise, the figures won't display normally.</font>
 
 Field Trials Video (HD): [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](-)
 
